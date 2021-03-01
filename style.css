@@ -1,0 +1,21 @@
+img{
+    width: 400px;
+    height: 300px;
+}
+
+h1,h2{
+    color: #ff006a;
+}
+
+p.sista{
+    color : #0037ff;
+}
+
+*{
+    background-color: #add1ec;
+}
+
+input[type=text]{
+    border : red 2px solid;
+    background : antiquewhite;
+}
